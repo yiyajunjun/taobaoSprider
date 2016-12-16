@@ -23,3 +23,14 @@
 
 #cd xxx 进入项目根目录taobaoSprider
 8. php Execute.php
+
+
+
+
+
+
+
+#2.0 coding中........
+.数据库
+.多线程
+.分布式
