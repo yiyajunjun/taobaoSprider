@@ -2,7 +2,7 @@
 #介绍
 #作者使用 ubuntu系统
 1. sudo apt-get install libfontconfig
-2. git clone git@code.csdn.net:ys4932004/taobaosprider.git
+2. git clone git@github.com:yangshu369/taobaoSprider.git
 
 
 
